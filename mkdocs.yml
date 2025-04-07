@@ -68,4 +68,10 @@ nav:
     - Home: index.md
     - Theory:
       - BasicTheory.ipynb
-      - StoppingPower.ipynb
+      - Stopping Power: 
+        - Bragg fit: StoppingPower.ipynb
+        - Bethe-Bloch: 
+          - Formula: bethe.ipynb
+          - Bragg Additivity rule: bragg_additivity.ipynb
+          - Bragg Peak: bragg_peak.ipynb
+      - References: references.md
